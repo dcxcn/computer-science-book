@@ -19,9 +19,17 @@ brew services start nginx
 
 ## linux
 
+配置文
+
 ## windows
 
 ```
 start nginx
 ```
+
+
+### 查看配置文件位置
+nginx -t
+
+
 
