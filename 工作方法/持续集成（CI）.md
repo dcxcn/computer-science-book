@@ -74,3 +74,6 @@
 
 http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html
 
+
+如何让自己少写点bug？
+https://mp.weixin.qq.com/s/bBVlFaA9THfPOcNxzsboNg

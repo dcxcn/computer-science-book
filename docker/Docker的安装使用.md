@@ -70,20 +70,6 @@ docker --version
 
 
 
-参考：
-
-- [[Docker搭建MySQL服务](https://www.cnblogs.com/pwc1996/p/5425234.html)](https://www.cnblogs.com/pwc1996/p/5425234.html)
-
-
-
-### mysql
-
-#### 拉取镜像
-
-```shell
-docker search mysql
-```
-
 #### 使用镜像
 
 
