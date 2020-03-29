@@ -48,7 +48,7 @@ $ sudo docker stop 73f8811f669e  //通过指定容器ID
 docker exec -it  2a7a85124400（ID号）  /bin/bash
 ```
 
-docker exec -it  76fadc25821f  /bin/bash
+docker exec -it  nginx-coin  /bin/bash
 
 docker exec -it 5c69a1f1809b  /bin/bash
 
@@ -56,12 +56,7 @@ docker start 3fd996e38ac8
 
 
 
-### 移除容器
 
-```
-
-docker rm ID
-```
 
 ## 镜像类
 
